@@ -1,4 +1,4 @@
-Tổng hợp các bài Lab môn: Nguyên lý lập trình cấu trúc - GV: Trần Tuấn Minh
+# Tổng hợp các bài Lab môn: Nguyên lý lập trình cấu trúc - GV: Trần Tuấn Minh
 
 Ngôn ngữ: C/C++
 
